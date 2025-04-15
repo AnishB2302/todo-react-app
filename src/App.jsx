@@ -95,7 +95,7 @@ function App() {
           onChange={toggleFinished}
           type="checkbox"
           checked={showFinished}
-        />{" "}
+        />
         Show Finished Tasks
         
         <h2 className="text-lg font-bold">Your Tasks</h2>

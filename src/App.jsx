@@ -73,7 +73,7 @@ function App() {
     <>
       <Navbar />
       <div className="mx-3 md:container md:mx-auto my-5 rounded-xl p-5 bg-green-100 min-h-[80vh] md:w-1/2">
-      <h1 className="font-bold text-center text-3xl"> Ta-Da! - Your Ultimate To-Do App</h1>
+      <h1 className="font-bold text-center text-3xl"> Master your day: The smart & simple way.</h1>
         <div className="addTodo my-5 flex flex-col gap-4">
           <h2 className="text-xl font-bold"> Add a To-Do</h2>
           <div className="flex">

@@ -6,7 +6,6 @@ const Navbar = () => {
       <div className="logo">
         <span className="font-bold text-2xl  mx-8 ">Ta-Da: Do Anything!</span>
       </div>
-
     </nav>
   )
 }
